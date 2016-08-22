@@ -1,0 +1,24 @@
+[33mcommit 8b85cc6d73bd7dad6cf58471e8ea98140bb232cd[m
+Merge: be726e5 9a92b11
+Author: Da Vinci's Deemon <Da Vinci's Deemon@192.168.0.4>
+Date:   Thu Aug 18 00:23:44 2016 -0500
+
+    Merge branch 'master' of https://github.com/ramizrshaik/courseapp2.git
+
+[33mcommit be726e5c6df9b23bf73210ed39a50df5ec2c4145[m
+Author: Da Vinci's Deemon <Da Vinci's Deemon@192.168.0.4>
+Date:   Wed Aug 17 23:48:21 2016 -0500
+
+    created classes in the comain package and configured getters and setters
+
+[33mcommit ee85308852ff103ca22f01ee20cced8166a12b53[m
+Author: Da Vinci's Deemon <Da Vinci's Deemon@192.168.0.4>
+Date:   Wed Aug 17 23:46:38 2016 -0500
+
+    Initialized spring project, first commit
+
+[33mcommit 9a92b111c409e29700e3478adb1c5219b4a2263c[m
+Author: Rameez Shaik <Rameez Shaik>
+Date:   Wed Aug 17 23:41:17 2016 -0500
+
+    first commit
